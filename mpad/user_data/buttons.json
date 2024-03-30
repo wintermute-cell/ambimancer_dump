@@ -1,0 +1,15 @@
+{"buttons":
+    {"example_button":
+        {"name": "Example Button", "icon": "example_button", "command": "echo Hello World!"},
+    "audio_next":
+        {"name": "Next", "icon": "example_button", "command": "strawberry -f"},
+    "audio_prev":
+        {"name": "Previous", "icon": "example_button", "command": "strawberry -r"},
+    "audio_toggle":
+        {"name": "Toggle", "icon": "example_button", "command": "strawberry -t"},
+    "playlist_dnd1":
+        {"name": "dnd", "icon": "example_button", "command": "strawberry -i dnd"},
+    "playlist_dnd2":
+        {"name": "dnd2", "icon": "example_button", "command": "strawberry -i dnd2"}
+    }
+}
